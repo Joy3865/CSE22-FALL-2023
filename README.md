@@ -1,2 +1,7 @@
-# CSE22-FALL-2023
-This is an OOP Lab Repository
+Name : Joy gosh
+
+ ID : 22235103063
+
+ INtake : 51
+
+ Section : 02
